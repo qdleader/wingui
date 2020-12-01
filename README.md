@@ -20,4 +20,4 @@ npm run start
 npm run build
 ```
 
-## 项目刚开始，有兴趣同学可以关注qdleader，回复Yui，添加我时候备注好Yui，加入到项目中来。
+## 项目刚开始，有兴趣同学可以关注qdleader，回复Yui，添加我时候备注好Yui，加入到项目中来
